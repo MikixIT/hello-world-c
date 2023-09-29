@@ -1,6 +1,6 @@
 # hello-world-c
 
-#I start practicing on c, to strengthen the basics
+# I start practicing on c, to strengthen the basics
 
 //
 //  main.c
