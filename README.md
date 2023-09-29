@@ -2,6 +2,7 @@
 
 # I start practicing on c, to strengthen the basics
 
+```c
 //
 //  main.c
 //  first-c-software
@@ -15,3 +16,4 @@ int main(int argc, const char * argv[]) {
     printf("Hello, World by MikixIT in C!\n");
     return 0;
 }
+```
