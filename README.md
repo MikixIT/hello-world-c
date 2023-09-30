@@ -1,4 +1,4 @@
-# hello-world-c
+#my first hello-world-c
 
 # I start practicing on c, to strengthen the basics
 
