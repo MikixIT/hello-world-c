@@ -9,5 +9,4 @@
 
 int main(int argc, const char * argv[]) {
     printf("Hello, World by MikixIT in C!\n");
-    return 0;
 }
